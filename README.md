@@ -30,7 +30,6 @@
 ├── style.css         # CSS styling
 └── script.js         # JavaScript logic
 
-*** Try it live *** :-
-(https://vaishnavikhosare.github.io/Roadmap-Builder/)
+[Try it Live]()
 
 
